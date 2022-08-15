@@ -1,6 +1,6 @@
 {
     "name": "vue-awesome-dialog",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "",
     "main": "dist/vue-awesome-dialog.ssr.js",
     "browser": "dist/vue-awesome-dialog.esm.js",
