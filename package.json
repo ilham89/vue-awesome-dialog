@@ -11,6 +11,10 @@
         "src/**/*.vue"
     ],
     "sideEffects": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ilham89/vue-awesome-dialog.git"
+    },
     "scripts": {
         "serve": "vue-cli-service serve dev/serve.js",
         "prebuild": "rimraf ./dist",
