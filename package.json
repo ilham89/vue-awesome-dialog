@@ -1,7 +1,8 @@
 {
     "name": "vue-awesome-dialog",
     "version": "1.0.8",
-    "description": "",
+    "description": "A awesome dialog component for Vue3",
+    "license": "ISC",
     "main": "dist/vue-awesome-dialog.ssr.js",
     "browser": "dist/vue-awesome-dialog.esm.js",
     "module": "dist/vue-awesome-dialog.esm.js",
